@@ -1,0 +1,36 @@
+body {
+  background-image: linear-gradient(to right, rgba(248, 189, 52, 1), rgba(25, 110, 210, 1));
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 90vh;
+}
+
+.container {
+  justify-items: center;
+  align-items: center;
+  background-color: white;
+  height: 80vh;
+  width: 60vw;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.title {
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+
+table {
+  width: 100%;
+}
+
+input {
+  width: 50%;
+}
+
+.submit {
+  margin-top: 3%;
+}
